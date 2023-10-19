@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- The Base application theme. -->
+    <style name="Base.Theme.coretwo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/p</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@color/w</item>
+
+        <!--    <color name="p">#FF34E0</color>
+    <color name="green_dark">#152E15</color>
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>-->
+
+        <!-- The Secondary brand color. -->
+        <item name="colorSecondary">@color/m</item>
+        <item name="colorSecondaryVariant">@color/gd</item>
+        <item name="colorOnSecondary">@color/b</item>
+        <!-- The Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <!--    <color name="p">#FF34E0</color>
+        <color name="green_dark">#152E15</color>
+        <color name="green_light">#7AA37C</color>
+        <color name="m">#FFC0D9</color>
+        <color name="gd">#BFBD39</color>
+        <color name="gl">#454117</color>-->
+    <style name="Theme.coretwo" parent="Base.Theme.coretwo" />
+</resources>

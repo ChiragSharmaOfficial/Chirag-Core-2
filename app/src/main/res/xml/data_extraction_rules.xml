@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Sample data extraction rules file; uncomment and customize as necessary.
+   See https://developer.android.com/about/versions/12/backup-restore#xml-changes
+   for details.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- TODO: Use <include> and <exclude> to control what is backed up.
+        <include .../>
+        <exclude .../>
+        -->
+    </cloud-backup>
+    <!--
+    <device-transfer>
+
+        <include .../>
+        <exclude .../>
+    </device-transfer>
+    -->
+    <!--    <color name="p">#FF34E0</color>
+    <color name="green_dark">#152E15</color>
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>--><!--
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>--><!--
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>-->
+
+
+
+</data-extraction-rules>

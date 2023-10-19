@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="b">#FF000000</color>
+    <color name="w">#FFFFFFFF</color>
+    <color name="c">#047555</color>
+    <!--    <color name="p">#FF34E0</color>
+        <color name="green_dark">#152E15</color>
+        <color name="green_light">#7AA37C</color>
+        <color name="m">#FFC0D9</color>
+        <color name="gd">#BFBD39</color>
+        <color name="gl">#454117</color>-->
+    <color name="p">#FF34E0</color>
+    <color name="green_dark">#152E15</color>
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>
+</resources>
+
+<!--    <color name="p">#FF34E0</color>
+    <color name="green_dark">#152E15</color>
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>-->

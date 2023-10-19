@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Sample backup rules file; uncomment and customize as necessary.
+   See https://developer.android.com/guide/topics/data/autobackup
+   for details.
+   Note: This file is ignored for devices older that API 31
+   See https://developer.android.com/about/versions/12/backup-restore
+-->
+<full-backup-content>
+    <!--
+   <include domain="sharedpref" path="."/>
+   <exclude domain="sharedpref" path="device.xml"/>
+-->
+    <!--    <color name="p">#FF34E0</color>
+    <color name="green_dark">#152E15</color>
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>--><!--    <color name="p">#FF34E0</color>
+    <color name="green_dark">#152E15</color>
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>-->
+
+</full-backup-content>

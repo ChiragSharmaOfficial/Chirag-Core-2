@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTitleText">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">@color/b</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--    <color name="p">#FF34E0</color>
+    <color name="green_dark">#152E15</color>
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>-->
+
+    <style name="AppBodyText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/b</item>
+    </style>
+    <!--    <color name="p">#FF34E0</color>
+    <color name="green_dark">#152E15</color>
+    <color name="green_light">#7AA37C</color>
+    <color name="m">#FFC0D9</color>
+    <color name="gd">#BFBD39</color>
+    <color name="gl">#454117</color>-->
+</resources>

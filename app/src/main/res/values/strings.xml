@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Core Two</string>
+    <string name="image_description">Cycle Image</string>
+    <string name="btBorrow">Borrow</string>
+    <string name="btNext">Next</string>
+    <string name="cpCoop">Tubeless</string>
+    <string name="cpMultiplayer">Automatic Breaking</string>
+    <string name="cpLocal">LED Light</string>
+    <string name="cpMulti">Automatic Gearing</string>
+    <string name="sliderLabel">1 day</string>
+    <string name="btSave">Save</string>
+</resources>
